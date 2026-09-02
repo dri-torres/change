@@ -1,0 +1,7 @@
+{
+  "name": "santafechange",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

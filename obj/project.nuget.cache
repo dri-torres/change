@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYgYwAxaVgU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drini\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.30\\microsoft.aspnetcore.spaproxy.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

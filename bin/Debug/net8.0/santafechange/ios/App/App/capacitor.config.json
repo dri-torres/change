@@ -1,0 +1,11 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "santafechange",
+	"webDir": "www",
+	"packageClassList": [
+		"AppPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin"
+	]
+}

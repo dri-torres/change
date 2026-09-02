@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ConfigController",
+    "Method": "GetSiteTitle",
+    "RelativePath": "api/Config/title",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
