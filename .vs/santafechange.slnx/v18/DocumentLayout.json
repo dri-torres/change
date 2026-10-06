@@ -3,60 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\drini\\source\\repos\\santafechange\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\config\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:config\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\home\\home.page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\home\\home.page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\home\\home.page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\drini\\source\\repos\\santafechange\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\src\\app\\home\\home.page.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\ionic.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\ionic.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\santafechange\\capacitor.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:santafechange\\capacitor.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|c:\\users\\drini\\source\\repos\\santafechange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{44A54C66-5081-1049-1107-DD42349FB7F1}|santafechange.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,49 +93,91 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 293,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\config\\HomeController.cs",
-              "RelativeDocumentMoniker": "config\\HomeController.cs",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\config\\HomeController.cs",
-              "RelativeToolTip": "config\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T20:59:45.168Z",
+              "WhenOpened": "2026-09-12T15:08:46.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\proxy.conf.json",
+              "RelativeDocumentMoniker": "santafechange\\src\\proxy.conf.json",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\proxy.conf.json",
+              "RelativeToolTip": "santafechange\\src\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-12T15:11:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.ts",
+              "RelativeToolTip": "santafechange\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T21:08:27.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\controllers\\HomeController.cs",
-              "RelativeToolTip": "controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T20:58:24.788Z"
+              "Title": "home.page.html",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.html",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\home\\home.page.html",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.html",
+              "RelativeToolTip": "santafechange\\src\\app\\home\\home.page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-05T21:30:18.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "santafechange.csproj",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange.csproj",
-              "RelativeDocumentMoniker": "santafechange.csproj",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange.csproj",
-              "RelativeToolTip": "santafechange.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-18T20:56:21.218Z"
+              "DocumentIndex": 0,
+              "Title": "home.page.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.ts",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\home\\home.page.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.ts",
+              "RelativeToolTip": "santafechange\\src\\app\\home\\home.page.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T21:30:26.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\angular.json",
+              "RelativeDocumentMoniker": "santafechange\\angular.json",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\angular.json",
+              "RelativeToolTip": "santafechange\\angular.json",
+              "ViewState": "AgIAAFMAAAAAAAAAAAArwF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T16:04:26.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -115,19 +185,21 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-18T20:55:04.092Z"
+              "WhenOpened": "2026-10-05T15:58:23.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "home.page.html",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.html",
-              "RelativeDocumentMoniker": "santafechange\\src\\app\\home\\home.page.html",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.html",
-              "RelativeToolTip": "santafechange\\src\\app\\home\\home.page.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-08-18T20:25:53.909Z"
+              "DocumentIndex": 6,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\main.ts",
+              "RelativeDocumentMoniker": "santafechange\\src\\main.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\main.ts",
+              "RelativeToolTip": "santafechange\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T17:20:03.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,104 +209,172 @@
               "RelativeDocumentMoniker": "santafechange\\src\\app\\app.component.html",
               "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.html",
               "RelativeToolTip": "santafechange\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-08-18T20:25:25.821Z"
+              "WhenOpened": "2026-10-05T21:07:58.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "proxy.conf.json",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\proxy.conf.json",
-              "RelativeDocumentMoniker": "santafechange\\proxy.conf.json",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\proxy.conf.json",
-              "RelativeToolTip": "santafechange\\proxy.conf.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-18T20:24:36.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\.gitignore",
-              "RelativeDocumentMoniker": "santafechange\\.gitignore",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\.gitignore",
-              "RelativeToolTip": "santafechange\\.gitignore",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-08-18T18:16:34.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\index.html",
               "RelativeDocumentMoniker": "santafechange\\src\\index.html",
               "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\index.html",
               "RelativeToolTip": "santafechange\\src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-08-18T18:09:05.299Z"
+              "WhenOpened": "2026-10-05T17:20:09.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "santafechange\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T17:19:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "santafechange\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T21:35:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.scss",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.scss",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\app.component.scss",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\app.component.scss",
+              "RelativeToolTip": "santafechange\\src\\app\\app.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-10-05T21:35:16.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.page.spec.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.spec.ts",
+              "RelativeDocumentMoniker": "santafechange\\src\\app\\home\\home.page.spec.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.spec.ts",
+              "RelativeToolTip": "santafechange\\src\\app\\home\\home.page.spec.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T21:30:22.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\tsconfig.json",
+              "RelativeDocumentMoniker": "santafechange\\tsconfig.json",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\tsconfig.json",
+              "RelativeToolTip": "santafechange\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T21:05:13.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ionic.config.json",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\ionic.config.json",
+              "RelativeDocumentMoniker": "santafechange\\ionic.config.json",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\ionic.config.json",
+              "RelativeToolTip": "santafechange\\ionic.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T21:05:08.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\package.json",
+              "RelativeDocumentMoniker": "santafechange\\package.json",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\package.json",
+              "RelativeToolTip": "santafechange\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T16:12:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\app.config",
+              "RelativeDocumentMoniker": "santafechange\\app.config",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\app.config",
+              "RelativeToolTip": "santafechange\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-05T17:17:04.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "capacitor.config.ts",
+              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\capacitor.config.ts",
+              "RelativeDocumentMoniker": "santafechange\\capacitor.config.ts",
+              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\capacitor.config.ts",
+              "RelativeToolTip": "santafechange\\capacitor.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-05T17:15:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-18T18:03:53.413Z"
-            },
+              "WhenOpened": "2026-10-05T16:31:05.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "home.page.ts",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.ts",
-              "RelativeDocumentMoniker": "santafechange\\src\\app\\home\\home.page.ts",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\app\\home\\home.page.ts",
-              "RelativeToolTip": "santafechange\\src\\app\\home\\home.page.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-08-18T20:25:39.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "main.ts",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\main.ts",
-              "RelativeDocumentMoniker": "santafechange\\src\\main.ts",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\santafechange\\src\\main.ts",
-              "RelativeToolTip": "santafechange\\src\\main.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-08-18T18:08:26.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T17:03:40.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\drini\\source\\repos\\santafechange\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\drini\\source\\repos\\santafechange\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T16:52:05.759Z"
+              "WhenOpened": "2026-09-12T15:09:16.388Z",
+              "EditorCaption": ""
             }
           ]
         }

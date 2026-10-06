@@ -1,7 +1,18 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container
-builder.Services.AddControllersWithViews();
+// 1. Add API controllers only
+builder.Services.AddControllers();
+
+// 2. Configure CORS for Angular dev server
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularDev", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200") // <-- References Angular's port
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
@@ -9,21 +20,18 @@ if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
-else
-{
-    app.UseExceptionHandler("/Error");
-    app.UseHsts();
-}
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
 app.UseRouting();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller}/{action=Index}/{id?}");
+// UseCors must be placed between UseRouting and UseAuthorization
+app.UseCors("AllowAngularDev");
 
-// Fallback routes non-API requests to index.html
-app.MapFallbackToFile("index.html");
+app.UseAuthorization();
+
+// Map attribute-routed API controllers (e.g. [Route("api/[controller]")])
+app.MapControllers();
+
+app.MapGet("/", () => Results.Ok("ASP.NET Core Web API is running!"));
 
 app.Run();

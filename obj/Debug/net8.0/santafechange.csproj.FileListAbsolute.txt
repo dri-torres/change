@@ -1,5 +1,6 @@
 C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\spa.proxy.json
 C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\santafechange\app.config
+C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\appsettings.json
 C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\santafechange\.eslintrc.json
 C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\santafechange\android\app\src\main\assets\capacitor.config.json
 C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\santafechange\android\app\src\main\assets\capacitor.plugins.json
@@ -51,4 +52,4 @@ C:\Users\drini\source\repos\santafechange\obj\Debug\net8.0\refint\santafechange.
 C:\Users\drini\source\repos\santafechange\obj\Debug\net8.0\santafechange.pdb
 C:\Users\drini\source\repos\santafechange\obj\Debug\net8.0\santafechange.genruntimeconfig.cache
 C:\Users\drini\source\repos\santafechange\obj\Debug\net8.0\ref\santafechange.dll
-C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\appsettings.json
+C:\Users\drini\source\repos\santafechange\bin\Debug\net8.0\santafechange.staticwebassets.runtime.json
