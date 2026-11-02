@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("santafechange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be61b599795e3e3fe67978b5f77a8e791ea937b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e6e742975ba7630307577ff2e4d469d9ce1f88")]
 [assembly: System.Reflection.AssemblyProductAttribute("santafechange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("santafechange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
